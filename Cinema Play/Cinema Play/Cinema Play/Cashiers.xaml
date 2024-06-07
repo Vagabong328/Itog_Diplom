@@ -1,0 +1,59 @@
+﻿<Window x:Class="Cinema_Play.Cashiers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cinema_Play"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="Cashiers" Height="720" Width="1280" Foreground="{x:Null}" Loaded="Check_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="background.jpeg"/>
+    </Window.Background>
+    <Grid>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="689" Stroke="Black" VerticalAlignment="Top" Width="1272" Opacity="0.8"/>
+        <Button Content="Выйти" HorizontalAlignment="Left" Height="19" Margin="30,20,0,0" VerticalAlignment="Top" Width="40" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="Button_Click"/>
+        <Label Content="Вы вошли как Кассир" HorizontalAlignment="Left" Height="47" Margin="449,116,0,0" VerticalAlignment="Top" Width="400" Foreground="#FFFFB900" FontFamily="Copperplate Gothic Bold" FontSize="36"/>
+        <Path Data="M415.0409,82.542042 L445.68784,113.18784 605.0034,113.18784 636.00416,82.18808 z" Fill="#FFFFB900" HorizontalAlignment="Left" Height="34.584" Margin="810.08,-30.5,0,0" Stretch="Fill" VerticalAlignment="Top" Width="239.88" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform X="327.5" Y="327.5"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M415.0409,82.542042 L445.68784,113.18784 605.0034,113.18784 636.00416,82.18808 z" Fill="#FFFFB900" HorizontalAlignment="Left" Height="34.584" Margin="225.08,624.5,0,0" Stretch="Fill" VerticalAlignment="Top" Width="239.88" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270"/>
+                    <TranslateTransform X="-327.5" Y="-327.5"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Image Margin="587.298,16,587.5,628.992" Source="белый лого.png" Stretch="Fill" RenderTransformOrigin="0.192,0.904"/>
+        <Button Content="Приступить к работе" HorizontalAlignment="Left" Height="38" Margin="528,540,0,0" VerticalAlignment="Top" Width="235" Background="#FFFFB900" BorderBrush="{x:Null}" FontFamily="Gilroy Bold" FontSize="22" Click="Button_Click_1"/>
+        <Path Data="M537,159 L740.39482,159" Fill="Black" HorizontalAlignment="Left" Height="1" Margin="364.5,180,0,0" Stretch="Fill" Stroke="#FFFFB900" VerticalAlignment="Top" Width="564"/>
+        <DataGrid x:Name="GridView1" HorizontalAlignment="Left" Height="238" Margin="414,236,0,0" VerticalAlignment="Top" Width="468" 
+        SelectionChanged="GridView1_SelectionChanged" AutoGeneratingColumn="GridView1_AutoGeneratingColumn">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#FFFFB900"/>
+                    <Setter Property="Foreground" Value="Black"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.ItemContainerStyle>
+                <Style TargetType="DataGridRow">
+                    <Setter Property="Height" Value="50"/>
+                </Style>
+            </DataGrid.ItemContainerStyle>
+        </DataGrid>
+        <Path Data="M537,159 L740.39482,159" Fill="Black" HorizontalAlignment="Left" Height="1" Margin="364.5,508.583,0,0" Stretch="Fill" Stroke="#FFFFB900" VerticalAlignment="Top" Width="564"/>
+        <TextBox x:Name="Searchh" HorizontalAlignment="Left" Height="22" Margin="714,202,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168" TextChanged="Searchh_TextChanged"/>
+        <Label Content="Сеансы на какой фильм Вас интересуют?" HorizontalAlignment="Left" Height="33" Margin="414,196,0,0" VerticalAlignment="Top" Width="284" Foreground="White" FontSize="14"/>
+
+    </Grid>
+</Window>

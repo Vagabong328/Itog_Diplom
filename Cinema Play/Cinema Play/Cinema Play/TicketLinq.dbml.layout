@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TicketLinq">
+  <DataContextMoniker Name="/TicketLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="36e6dc8c-25c7-445b-830b-40a0e470c98c" absoluteBounds="4, 3, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/TicketLinqDataContext/Продажа_билета" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70155ede-34a2-4dae-acea-fbd5cb9c8a23" absoluteBounds="4.015, 3.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

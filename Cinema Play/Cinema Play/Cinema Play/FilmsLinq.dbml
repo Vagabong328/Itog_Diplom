@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CinemaPlayBD" Class="FilmsLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDb)\Vaga;Initial Catalog=CinemaPlayBD;Integrated Security=True" SettingsObjectName="Cinema_Play.Properties.Settings" SettingsPropertyName="CinemaPlayBDConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Фильмы" Member="Фильмы">
+    <Type Name="Фильмы">
+      <Column Name="[Название фильма]" Member="Название_фильма" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="[Производство компанией]" Member="Производство_компанией" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Год выпуска]" Member="Год_выпуска" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Жанр" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Длительность" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

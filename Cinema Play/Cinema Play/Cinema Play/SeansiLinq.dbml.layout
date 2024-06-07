@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SeansiLinq">
+  <DataContextMoniker Name="/SeansiLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="9b2ae99c-3227-44ae-9a59-4b13a81edab5" absoluteBounds="2.875, 2.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/SeansiLinqDataContext/Сеансы" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f96b6474-da12-4df7-ad2b-95e96a580b77" absoluteBounds="2.89, 2.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

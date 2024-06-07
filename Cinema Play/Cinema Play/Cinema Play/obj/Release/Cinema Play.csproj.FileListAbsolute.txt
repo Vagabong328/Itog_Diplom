@@ -1,0 +1,33 @@
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Release\Cinema Play.exe.config
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Release\Cinema Play.exe
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Release\Cinema Play.pdb
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Release\Microsoft.Data.Tools.Components.dll
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema Play.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Admin.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cashiers.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\CheckSeans.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Films.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\MainWindow.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\SaleTicket.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Seansi.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Tickets.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Users.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\App.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema Play_MarkupCompile.cache
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema Play_MarkupCompile.lref
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Admin.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cashiers.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\CheckSeans.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Films.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\MainWindow.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\SaleTicket.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Seansi.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Tickets.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Users.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema Play.g.resources
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema_Play.Properties.Resources.resources
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema Play.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema Play.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema Play.csproj.CopyComplete
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema Play.exe
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Release\Cinema Play.pdb

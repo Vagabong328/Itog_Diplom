@@ -1,0 +1,32 @@
+﻿<Window x:Class="Cinema_Play.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cinema_Play"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Foreground="{x:Null}">
+    <Window.Background>
+        <ImageBrush ImageSource="background.jpeg"/>
+    </Window.Background>
+    <Grid OpacityMask="Black">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="551*"/>
+            <ColumnDefinition Width="241*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Grid.ColumnSpan="2" Fill="Black" HorizontalAlignment="Left" Height="419" Stroke="Black" VerticalAlignment="Top" Width="792" Opacity="0.8"/>
+        <Image Margin="6.965,46.487,54.333,291.153" Source="белый лого.png" Stretch="Fill" RenderTransformOrigin="0.192,0.904" Grid.Column="1"/>
+        <Label Content="ВХОД В СИСТЕМУ" HorizontalAlignment="Left" Height="38.352" Margin="0.965,154.824,0,0" VerticalAlignment="Top" Width="194.035" FontFamily="Oks Free" FontSize="28" Foreground="#FFFFB900" Grid.Column="1"/>
+        <Label Content="Логин:" HorizontalAlignment="Left" Height="26.667" Margin="0.965,209.668,0,0" VerticalAlignment="Top" Width="61.701" Foreground="White" FontFamily="Gilroy" Grid.Column="1"/>
+        <Label Content="Пароль:" HorizontalAlignment="Left" Height="26.667" Margin="541.632,241.335,0,0" VerticalAlignment="Top" Width="61.701" Foreground="White" FontFamily="Gilroy" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="Login" HorizontalAlignment="Left" Height="20" Margin="67.666,212.332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="White" Grid.Column="1"/>
+        <PasswordBox x:Name="Password" HorizontalAlignment="Left" Height="20" Margin="67.666,242.999,0,0" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <Button Content="Войти" HorizontalAlignment="Left" Height="20" Margin="118.999,277.667,0,0" VerticalAlignment="Top" Width="68.001" Background="#FFFFB900" Click="Button_Click" Grid.Column="1"/>
+        <Path Data="M557.632,139 L737.67811,139" Fill="#FFFFB900" HorizontalAlignment="Left" Height="1" Margin="6.965,148.824,0,0" Stretch="Fill" Stroke="#FFFFB900" VerticalAlignment="Top" Width="181.046" Grid.Column="1"/>
+        <Button Content="Выйти из системы" HorizontalAlignment="Left" Height="17.668" Margin="76.999,302.667,0,0" VerticalAlignment="Top" Width="110.001" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFFFB900" Click="Button_Click_1" Grid.Column="1"/>
+    </Grid>
+</Window>

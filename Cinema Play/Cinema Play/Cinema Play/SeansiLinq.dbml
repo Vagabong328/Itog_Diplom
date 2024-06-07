@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CinemaPlayBD" Class="SeansiLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=10.179.100.5;Initial Catalog=CinemaPlayBD;User Id=gitea;Password=Pa$$word;" SettingsObjectName="Cinema_Play.Properties.Settings" SettingsPropertyName="CinemaPlayBDConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Сеансы" Member="Сеансы">
+    <Type Name="Сеансы">
+      <Column Name="[Код сеанса]" Member="Код_сеанса" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Фильм" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Цена" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="Дата" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Время" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="Зал" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

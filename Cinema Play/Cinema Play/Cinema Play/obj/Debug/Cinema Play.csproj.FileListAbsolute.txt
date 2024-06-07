@@ -1,0 +1,352 @@
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csprojAssemblyReference.cache
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\App.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.cache
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.lref
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe.config
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.pdb
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.baml
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.baml
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.baml
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.g.resources
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema_Play.Properties.Resources.resources
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.GenerateResource.cache
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CoreCompileInputs.cache
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.pdb
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.baml
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.baml
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.baml
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.baml
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.baml
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.g.cs
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.baml
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe.config
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Components.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Build.Framework.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Build.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Collections.Immutable.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Memory.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Numerics.Vectors.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Buffers.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Utilities.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\cs\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\de\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\en\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\es\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\fr\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\it\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ja\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ko\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\pl\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\tr\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\ВКР\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CopyComplete
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\App.g.cs
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.cache
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.lref
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe.config
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.pdb
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.baml
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.g.resources
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema_Play.Properties.Resources.resources
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.GenerateResource.cache
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CopyComplete
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe
+C:\Users\SystemX\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.pdb
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe.config
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.pdb
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Build.Framework.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Build.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Collections.Immutable.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Text.Json.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.NET.StringTools.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Memory.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Text.Encodings.Web.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Numerics.Vectors.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Buffers.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Utilities.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\de\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\en\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\es\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\it\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.AssemblyReference.cache
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe.config
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\App.g.cs
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.cache
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.lref
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.baml
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.baml
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.baml
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.baml
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.baml
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.baml
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.baml
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.baml
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.baml
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.g.resources
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema_Play.Properties.Resources.resources
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.GenerateResource.cache
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CoreCompileInputs.cache
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CopyComplete
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe
+D:\Diplom\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.pdb
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe.config
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.pdb
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Build.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Text.Json.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Memory.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Buffers.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe.config
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.baml
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.baml
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.baml
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.baml
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.baml
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.baml
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.baml
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.baml
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.g.resources
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema_Play.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CopyComplete
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe
+C:\Users\Администратор\Desktop\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.pdb
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe.config
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.pdb
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Build.Framework.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Build.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Collections.Immutable.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Text.Json.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.NET.StringTools.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Memory.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Text.Encodings.Web.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Numerics.Vectors.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Buffers.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Data.Tools.Utilities.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\de\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\en\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\es\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\it\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.AssemblyReference.cache
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe.config
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\App.g.cs
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.cache
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.lref
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.baml
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.baml
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.baml
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.baml
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.baml
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.baml
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.baml
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.baml
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.baml
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.g.resources
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema_Play.Properties.Resources.resources
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.GenerateResource.cache
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CoreCompileInputs.cache
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CopyComplete
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe
+D:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.pdb
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe.config
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.exe
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Cinema Play.pdb
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\bin\Debug\Microsoft.Data.Tools.Components.dll
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.AssemblyReference.cache
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\App.g.cs
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.cache
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play_MarkupCompile.lref
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Admin.baml
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cashiers.baml
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\CheckSeans.baml
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Films.baml
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\MainWindow.baml
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\SaleTicket.baml
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Seansi.baml
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Tickets.baml
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Users.baml
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.g.resources
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema_Play.Properties.Resources.resources
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.GenerateResource.cache
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CoreCompileInputs.cache
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.csproj.CopyComplete
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.exe
+E:\Diplom\готовая\Cinema Play\Cinema Play\Cinema Play\obj\Debug\Cinema Play.pdb
